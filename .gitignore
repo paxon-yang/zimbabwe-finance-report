@@ -1,0 +1,20 @@
+# 临时文件
+*.tmp
+*.log
+*.swp
+*.bak
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器文件
+.vscode/
+.idea/
+*.code-workspace
+
+# Word文档（如果不想上传原始文档）
+*.docx
+*.doc
+
